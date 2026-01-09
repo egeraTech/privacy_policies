@@ -100,6 +100,9 @@ We may update this Privacy Policy periodically. Changes will be posted with the 
 
 ## Contact Information
 
-**Email:** contact@egeratech.com  
+
+**Email:** [contact@egeratech.com](mailto:contact@egeratech.com)  
+
 **Company:** EGERA TECH  
-**Website:** https://egeratech.com
+
+**Website:** [https://egeratech.com](https://egeratech.com)
